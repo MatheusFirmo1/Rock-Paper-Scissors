@@ -1,0 +1,26 @@
+body {
+    background-color:darkcyan;
+}
+.caixa {
+    background-color: aquamarine;
+    border: 1px black ;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+
+}
+.caixa1 {
+
+}
+
+.caixa2 {
+    border: 1px black;
+    display: flex;
+    flex-direction: column;
+}
+
+#rock, #paper, #scissors {
+    margin: 3px;
+}
